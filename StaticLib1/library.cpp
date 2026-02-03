@@ -14,7 +14,7 @@ void printBook(const Book& book)
     cout << "Title: " << book.title << endl;
     cout << "Author: " << book.author << endl;
     cout << "Year: " << book.year << endl;
-    cout << "Price: " << book.price << endl;
+    cout << "Price: " << book.price << endl << endl;
 }
 void printLibrary(const Library& library)
 {

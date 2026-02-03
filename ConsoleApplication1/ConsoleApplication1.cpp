@@ -13,6 +13,6 @@ int main()
 	printLibrary(lib);
 	cout << "Average price: " << averageBookPrice(lib) << endl;
 	Book oldest = oldestBookInLibrary(lib);
-	cout << "Oldest book:" << endl;
+	cout <<endl << "Oldest book:" << endl;
 	printBook(oldest);
 }
