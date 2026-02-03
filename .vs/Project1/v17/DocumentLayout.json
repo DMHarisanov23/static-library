@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DMHarisanov23\\source\\repos\\Project1\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\DMHarisanov23\\source\\repos\\static-library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A692E30-4E12-454B-9355-B5B84D20BA10}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\DMHarisanov23\\source\\repos\\static-library\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A692E30-4E12-454B-9355-B5B84D20BA10}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82E1A88-C241-4485-A305-9E90C35FFEEE}|StaticLib1\\StaticLib1.vcxproj|C:\\Users\\DMHarisanov23\\source\\repos\\static-library\\StaticLib1\\StaticLib1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A82E1A88-C241-4485-A305-9E90C35FFEEE}|StaticLib1\\StaticLib1.vcxproj|solutionrelative:StaticLib1\\StaticLib1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\DMHarisanov23\\source\\repos\\static-library\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\DMHarisanov23\\source\\repos\\static-library\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-03T11:14:36.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaticLib1.cpp",
+              "DocumentMoniker": "C:\\Users\\DMHarisanov23\\source\\repos\\static-library\\StaticLib1\\StaticLib1.cpp",
+              "RelativeDocumentMoniker": "StaticLib1\\StaticLib1.cpp",
+              "ToolTip": "C:\\Users\\DMHarisanov23\\source\\repos\\static-library\\StaticLib1\\StaticLib1.cpp",
+              "RelativeToolTip": "StaticLib1\\StaticLib1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-03T11:14:27.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
